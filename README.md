@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Kieran Dunch</h1>
 <h3 align="center">I'm a passionate theatre producer turned full-stack developer from Canada! I love learning new skills daily and especially learning from others.</h3>
 
-- 🔭 I just finished working on [What's For Dinner](https://whatsfordinner-wagon.herokuapp.com/)
+- 🔭 I just finished working on [What's For Dinner](https://whatsfordinner-wagon.herokuapp.com/).
 
-- 👯 I’m proud of [GrogU](https://grogu.herokuapp.com/)
+- 👯 I’m proud of [GrogU](https://grogu.herokuapp.com/).
 
-- 📫 How to reach me **dunch.kieran@gmail.com**
+- 📫 How to reach me: **dunch.kieran@gmail.com**.
 
 - 📄 Know about my experiences: [Online Resumé](https://www.canva.com/design/DAE7Dj5kP6M/eD9_lAd_97iv4PtlugmQvg/view?utm_content=DAE7Dj5kP6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/kieran dunch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kieran dunch" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kieran-dunch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kieran dunch" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
