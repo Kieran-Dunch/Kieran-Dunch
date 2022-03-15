@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kieran Dunch</h1>
-<h3 align="center">I'm a passionate full-stack developer from Canada! I love learning new skills daily and especially learning from others.</h3>
+<h3 align="center">I'm a passionate theatre producer turned full-stack developer from Canada! I love learning new skills daily and especially learning from others.</h3>
 
 - 🔭 I just finished working on [What's For Dinner](https://whatsfordinner-wagon.herokuapp.com/)
 
