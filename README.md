@@ -9,10 +9,10 @@
 
 - 📄 Know about my experiences: [Online Resumé](https://www.canva.com/design/DAE7Dj5kP6M/eD9_lAd_97iv4PtlugmQvg/view?utm_content=DAE7Dj5kP6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I have three citizenships!**
+- ⚡ Fun fact **I have three citizenships! :canada: :australia: :us:**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/kieran dunch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kieran dunch" height="30" width="40" /></a>
 </p>
 
