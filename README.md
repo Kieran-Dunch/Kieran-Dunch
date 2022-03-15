@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dunch.kieran@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE7Dj5kP6M/eD9_lAd_97iv4PtlugmQvg/view?utm_content=DAE7Dj5kP6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE7Dj5kP6M/eD9_lAd_97iv4PtlugmQvg/view?utm_content=DAE7Dj5kP6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences: [Online Resumé](https://www.canva.com/design/DAE7Dj5kP6M/eD9_lAd_97iv4PtlugmQvg/view?utm_content=DAE7Dj5kP6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I have three citizenships!**
 
