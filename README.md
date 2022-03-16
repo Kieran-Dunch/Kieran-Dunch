@@ -11,7 +11,7 @@
 
 - :briefcase: See my online portfolio: [Notion Portfolio](https://www.notion.so/kierandunch/Kieran-Dunch-Portfolio-20b1cfb4104547c695f5fb47668c6757)
 
-- ⚡ Fun fact **I have three citizenships! :canada: :australia: :us:**
+- ⚡ Fun fact: **I have three citizenships! :canada: :australia: :us:**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
