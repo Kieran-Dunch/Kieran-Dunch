@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences: [Online Resumé](https://www.canva.com/design/DAE7Dj5kP6M/eD9_lAd_97iv4PtlugmQvg/view?utm_content=DAE7Dj5kP6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+- :briefcase: See my online portfolio: [Notion Portfolio](https://www.notion.so/kierandunch/Kieran-Dunch-Portfolio-20b1cfb4104547c695f5fb47668c6757)
+
 - ⚡ Fun fact **I have three citizenships! :canada: :australia: :us:**
 
 <h3 align="center">Connect with me:</h3>
