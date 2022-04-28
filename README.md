@@ -5,7 +5,7 @@
 
 - 👯 I’m proud of [GrogU](https://grogu.herokuapp.com/).
 
-- 📘 I'm currently learning: [React & Firebase](https://www.udemy.com/course/build-web-apps-with-react-firebase/).
+- 📘 I'm currently learning: [React & Firebase](https://github.com/Kieran-Dunch/React_and_Firebase).
 
 - 📫 How to reach me: **dunch.kieran@gmail.com**.
 
