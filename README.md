@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kieran Dunch</h1>
 <h3 align="center">I'm a passionate theatre producer turned full-stack developer from Canada! I love learning new skills and especially learning from others.</h3>
 
-- :computer: Current Contract: I am the sole Frontend developer on Remixed: an immersive audio Progressive Web Application that serves you a custom playlist/experience based on your answers to quedtionnaires built throughout the app. I inherited the codebase from another developer, and with the help of some amazing mentors am now taking on the majority of optimization, new feature building and restructuring of the current software architecture.
+- :computer: Current Contract: I am the sole Frontend developer on Remixed: an immersive audio Progressive Web Application that serves you a custom playlist/experience based on your answers to questionnaires built throughout the app. I inherited the codebase from another developer, and with the help of some amazing mentors am now taking on the majority of optimization, new feature building and restructuring of the current software architecture.
 
 - 🔭 I just finished working on [What's For Dinner](https://whatsfordinner-wagon.herokuapp.com/).
 
