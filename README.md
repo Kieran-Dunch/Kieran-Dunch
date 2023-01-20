@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kieran Dunch</h1>
 <h3 align="center">I'm a passionate theatre producer turned full-stack developer from Canada! I love learning new skills and especially learning from others.</h3>
 
-- 🔭 I just finished working on [What's For Dinner](https://whatsfordinner-wagon.herokuapp.com/).
+- 🔭 I just finished working on [What's For Dinner](https://github.com/Kieran-Dunch/whatsfordinner).
 
 - 👯 I’m proud of [GrogU](https://github.com/Kieran-Dunch/grogu).
 
