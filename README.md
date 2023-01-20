@@ -3,7 +3,7 @@
 
 - 🔭 I just finished working on [What's For Dinner](https://whatsfordinner-wagon.herokuapp.com/).
 
-- 👯 I’m proud of [GrogU](https://grogu.herokuapp.com/).
+- 👯 I’m proud of [GrogU](https://github.com/Kieran-Dunch/grogu).
 
 - 📘 I'm currently learning: [React & Firebase](https://github.com/Kieran-Dunch/React_and_Firebase).
 
