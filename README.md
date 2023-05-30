@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I have three citizenships! :canada: :australia: :us:**
 
-- P.S. I'm slighty more active on [GitLab!](https://gitlab.com/Kieran-Dunch)
+- P.S. I'm more active on [GitLab!](https://gitlab.com/Kieran-Dunch)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
