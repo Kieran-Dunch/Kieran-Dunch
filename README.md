@@ -3,7 +3,7 @@
 
 I'm Kieran Dunch, a Full Stack Web Developer working remotely across Canada.
 
-:mailbox: Get in touch! 💻 Check out my [website](https://www.kierandunch.com/)!
+:mailbox: Get in touch!     💻 Check out my [website](https://www.kierandunch.com/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kieran-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kieran-dunch/) [![Mail Badge](https://img.shields.io/badge/-Kieran-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dunch.kieran@gmail.com)
 
