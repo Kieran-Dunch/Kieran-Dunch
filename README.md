@@ -175,7 +175,7 @@ I'm Kieran Dunch, a Full Stack Web Developer working remotely across Canada.
       </td> 
       <td align="center" height="108" width="108">
         <img
-          src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
+          src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"
           width="48"
           height="48"
           alt="Firebase"
