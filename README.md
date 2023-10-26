@@ -15,7 +15,6 @@ I'm Kieran Dunch, a Full Stack Web Developer working remotely across Canada.
 ### 📈 Github Stats
 
 ![Kieran-Dunch's Stats](https://github-readme-stats.vercel.app/api?username=Kieran-Dunch&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-![Kieran-Dunch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kieran-Dunch&theme=blueberry&hide_border=true)
 
 ### :computer: Top Technologies
 
