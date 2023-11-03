@@ -8,7 +8,7 @@ I'm Kieran Dunch, a Full Stack Web Developer working remotely across Canada.
 [![Linkedin Badge](https://img.shields.io/badge/-Kieran-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kieran-dunch/) [![Mail Badge](https://img.shields.io/badge/-Kieran-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dunch.kieran@gmail.com)
 
 - 💻 I recently built [What's for Dinner](https://github.com/Kieran-Dunch/whatsfordinner), a social media app for foodies.
-- 🧠 I’m currently working as a full-stack dev full time, and front-end freelance dev on [Remixed](https://www.kierandunch.com/remixed). Stack: Firebase, React, Typescript.
+- 🧠 I’m currently working as a full-stack dev in fintech, and front-end freelance dev on [Remixed](https://www.kierandunch.com/remixed). Stack: Firebase, React, Typescript.
 - 📚 Currently reading The Pragmatic Programmer by David Thomas and Andrew Hunt.
 - ⚡ Fun fact: **I have three citizenships! :canada: :australia: :us:**
 
